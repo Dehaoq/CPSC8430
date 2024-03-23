@@ -1,3 +1,2 @@
-Directly run the juypter notebook
-
-The dataset will be built automatically
+For HW3
+Directly run train.py in command line
